@@ -22,7 +22,7 @@
     { "id": "streakMilestone100", "name": "100-Day Streak", "amount": 1000, "description": "100-day streak milestone" }
   ],
   "achievements": [
-    { "id": "first_habit", "name": "Baby Steps", "description": "Create your first habit", "iconEmoji": "👶", "xpReward": 25, "tier": "bronze" },
+    { "id": "first_habit", "name": "Baby Steps - Testing Dynamic", "description": "Create your first habit", "iconEmoji": "👶", "xpReward": 25, "tier": "bronze" },
     { "id": "first_completion", "name": "The Journey Begins", "description": "Complete a habit for the first time", "iconEmoji": "🎯", "xpReward": 50, "tier": "bronze" },
     { "id": "five_habits", "name": "Building Routine", "description": "Create 5 habits", "iconEmoji": "📚", "xpReward": 100, "tier": "bronze" },
     { "id": "streak_7", "name": "Week Warrior", "description": "Reach a 7-day streak", "iconEmoji": "🔥", "xpReward": 100, "tier": "bronze" },
